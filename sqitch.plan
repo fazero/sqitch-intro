@@ -7,3 +7,7 @@ users [appschema] 2019-10-28T21:30:03Z Ramil Ziganshin <fazero@gmail.com> # Crea
 insert_user [users appschema] 2019-10-28T22:09:28Z Ramil Ziganshin <fazero@gmail.com> # Creates a function to insert a user
 change_pass [users appschema] 2019-10-28T22:10:17Z Ramil Ziganshin <fazero@gmail.com> # Creates a function to change a user password
 @v1.0.0-dev1 2019-10-28T22:25:30Z Ramil Ziganshin <fazero@gmail.com> # Tag v1.0.0-dev1
+
+lists [appschema users] 2019-10-28T23:22:19Z Ramil Ziganshin <fazero@gmail.com> # Adds table for storing lists
+insert_list [appschema lists] 2019-10-28T23:26:27Z Ramil Ziganshin <fazero@gmail.com> # Added function for inserting lists
+delete_list [appschema lists] 2019-10-28T23:30:41Z Ramil Ziganshin <fazero@gmail.com> # Added function for deleting lists
