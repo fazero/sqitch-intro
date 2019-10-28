@@ -4,3 +4,5 @@
 
 appschema 2019-10-28T20:46:15Z Ramil Ziganshin <fazero@gmail.com> # Add schema for all flipr objects
 users [appschema] 2019-10-28T21:30:03Z Ramil Ziganshin <fazero@gmail.com> # Creates table to track our users
+insert_user [users appschema] 2019-10-28T22:09:28Z Ramil Ziganshin <fazero@gmail.com> # Creates a function to insert a user
+change_pass [users appschema] 2019-10-28T22:10:17Z Ramil Ziganshin <fazero@gmail.com> # Creates a function to change a user password
