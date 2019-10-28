@@ -11,3 +11,4 @@ change_pass [users appschema] 2019-10-28T22:10:17Z Ramil Ziganshin <fazero@gmail
 lists [appschema users] 2019-10-28T23:22:19Z Ramil Ziganshin <fazero@gmail.com> # Adds table for storing lists
 insert_list [appschema lists] 2019-10-28T23:26:27Z Ramil Ziganshin <fazero@gmail.com> # Added function for inserting lists
 delete_list [appschema lists] 2019-10-28T23:30:41Z Ramil Ziganshin <fazero@gmail.com> # Added function for deleting lists
+flips [appschema users] 2019-10-28T22:41:06Z Ramil Ziganshin <fazero@gmail.com> # Adds table for storing flips
