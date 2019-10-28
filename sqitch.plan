@@ -7,3 +7,5 @@ users [appschema] 2019-10-28T21:30:03Z Ramil Ziganshin <fazero@gmail.com> # Crea
 insert_user [users appschema] 2019-10-28T22:09:28Z Ramil Ziganshin <fazero@gmail.com> # Creates a function to insert a user
 change_pass [users appschema] 2019-10-28T22:10:17Z Ramil Ziganshin <fazero@gmail.com> # Creates a function to change a user password
 @v1.0.0-dev1 2019-10-28T22:25:30Z Ramil Ziganshin <fazero@gmail.com> # Tag v1.0.0-dev1
+
+flips [appschema users] 2019-10-28T22:41:06Z Ramil Ziganshin <fazero@gmail.com> # Adds table for storing flips
