@@ -14,3 +14,5 @@ delete_list [appschema lists] 2019-10-28T23:30:41Z Ramil Ziganshin <fazero@gmail
 flips [appschema users] 2019-10-28T22:41:06Z Ramil Ziganshin <fazero@gmail.com> # Adds table for storing flips
 insert_flip [flips appschema] 2019-10-28T22:51:32Z Ramil Ziganshin <fazero@gmail.com> # Creates insert_flip() function
 delete_flip [flips appschema] 2019-10-28T22:58:39Z Ramil Ziganshin <fazero@gmail.com> # Creates delete_flip() function
+pgcrypto [appschema] 2019-10-29T09:22:33Z Ramil Ziganshin <fazero@gmail.com> # Adding pgcrypto extension
+@v1.0.0-dev2 2019-10-29T10:33:31Z Ramil Ziganshin <fazero@gmail.com> # Tag v1.0.0-dev2
